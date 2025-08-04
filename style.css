@@ -50,6 +50,10 @@ nav ul li:hover{
     text-align: center;
     font-family: Verdana,sans-serif;
 }
+#Education{
+    text-align:center;
+    font-family:Aerial;
+}
 .box{
     margin-top:50px;
     display:flex;
@@ -389,4 +393,5 @@ overflow: scroll;
 
 .footer-socials a:hover {
   color: #1da1f2;
+
 }
